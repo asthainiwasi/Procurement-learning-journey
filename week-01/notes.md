@@ -20,3 +20,5 @@ Version tracking is important for:
 This is the foundation of structured digital work.
 
 Today I understood how structured version control builds discipline.
+
+I also understand how the branch works and can make changes as draft without affecting final file. You can also update the drafted change in the main file using Compare and Pull request
