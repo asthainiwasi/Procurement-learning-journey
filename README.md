@@ -16,3 +16,5 @@ Target Roles
 - Category Buyer / Buyer
 - Contract Manufacturing (Industrial / Adhesives)
 - Indirect Procurement (A&CP / Marketing Spend)
+
+This journey is about becoming a data-driven procurement professional.
